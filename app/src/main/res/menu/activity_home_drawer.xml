@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_latest"
+            android:icon="@drawable/ic_home"
+            android:title="@string/key_nav_latest" />
+        <item
+            android:id="@+id/nav_category"
+            android:icon="@drawable/ic_category"
+            android:title="@string/key_nav_category" />
+        <item
+            android:id="@+id/nav_gifs"
+            android:icon="@drawable/ic_gif"
+            android:title="@string/key_nav_gifs" />
+        <item
+            android:id="@+id/nav_favorites"
+            android:icon="@drawable/ic_follow"
+            android:title="@string/key_nav_my_favorites" />
+        <item
+            android:id="@+id/nav_rate"
+            android:icon="@drawable/ic_rate"
+            android:title="@string/key_nav_rate_app" />
+        <item
+            android:id="@+id/nav_more"
+            android:icon="@drawable/ic_more"
+            android:title="@string/key_nav_more_app" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_about"
+            android:title="@string/key_nav_about_us" />
+        <item
+            android:id="@+id/nav_setting"
+            android:icon="@drawable/ic_setting"
+            android:title="@string/key_nav_setting" />
+        <item
+            android:id="@+id/nav_privacy"
+            android:icon="@drawable/ic_police"
+            android:title="@string/key_nav_privacy_police" />
+    </group>
+
+
+</menu>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">HD Wallpaper</string>
+    <string name="key_text_main_ac">Developed by: Viavi Webtech</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="key_nav_latest">Latest</string>
+    <string name="key_nav_category">Category</string>
+    <string name="key_nav_my_favorites">Favorites</string>
+    <string name="key_nav_gifs">GIFs</string>
+    <string name="key_nav_rate_app">Rate App</string>
+    <string name="key_nav_more_app">More App</string>
+    <string name="key_nav_about_us">About Us</string>
+    <string name="key_nav_setting">Setting</string>
+    <string name="key_nav_privacy_police">Privacy Police</string>
+
+    <string name="key_text_nav">Amazing Wallpaper in your way</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
